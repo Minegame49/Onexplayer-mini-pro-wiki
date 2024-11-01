@@ -7,7 +7,7 @@ Link :
 
 - Calibration tuto : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/Calibration%20Tuto
 
-- RGB Fix Tuto : 
+- RGB Fix Tuto : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/RGBFIX
 
 - EGPU Tuto : SOON..
 
