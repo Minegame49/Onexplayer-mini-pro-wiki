@@ -3,7 +3,7 @@ Table of the contents
 
 # Link : 
 
-- OXP Console Tuto : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/OXP%20TIPS.MD
+- OXP Console Tuto : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/OXP%20TIPS.md
 
 - Calibration tuto : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/Calibration%20Tuto.MD
 
@@ -11,10 +11,10 @@ Table of the contents
 
 - EGPU Tuto : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/EGPU.MD
 
-- How to repair a joystick : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/repairjoystick.MD
+- How to repair a joystick : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/repairjoystick.md
 
-- How to change thermal paste : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/thermalpaste.MD
+- How to change thermal paste : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/thermalpaste.md
 
-- How to update BIOS : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/BIOSUPDATE.MD
+- How to update BIOS : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/BIOSUPDATE.md
 
-- How to remove Bloatware of windows 11 : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/RemoveBloatware.MD
+- How to remove Bloatware of windows 11 : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/RemoveBloatware.Md
