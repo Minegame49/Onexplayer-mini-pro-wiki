@@ -18,3 +18,5 @@ Table of the contents
 - How to update BIOS : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/BIOSUPDATE.md
 
 - How to remove Bloatware of windows 11 : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/RemoveBloatware.Md
+
+- Manual of the OneXPlayer 6800u : https://github.com/Minegame49/Onexplayer-mini-pro-wiki/blob/main/Manual.md
