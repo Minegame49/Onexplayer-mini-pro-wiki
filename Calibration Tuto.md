@@ -1,4 +1,4 @@
-# How to calibrate my Joystick ?
+# How to calibrate the Joystick ?
 
 For calibration OKestGamer have upload a video for this : https://www.youtube.com/watch?v=cLjfeZl-Iyw
 
