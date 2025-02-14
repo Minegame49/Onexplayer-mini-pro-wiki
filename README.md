@@ -1,4 +1,4 @@
-# Onexplayer-mini-pro-wiki
+# Onexplayer-mini-pro-6800u-wiki
 Table of the contents
 
 # Link : 
